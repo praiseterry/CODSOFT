@@ -13,5 +13,4 @@ Welcome to the Codsoft Internship Tasks Repository! This repository contains sol
 ### Task 3: ATM Application
 - Description: Creation of an ATM application using Java for basic banking transactions.
 
-### Task 4: Currency Converter using API
-- Description: Implementation of a currency converter in Java that fetches exchange rates from an external API.
+
