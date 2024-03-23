@@ -13,4 +13,7 @@ Welcome to the Codsoft Internship Tasks Repository! This repository contains sol
 ### Task 3: ATM Application
 - Description: Creation of an ATM application using Java for basic banking transactions.
 
+### Task 4: Quiz Application with Timer
+- Description: Creating Quiz applicatin with Timer using Java.
+
 
